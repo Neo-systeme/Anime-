@@ -1,0 +1,434 @@
+
+
+.bann{
+    background: url(images/ecb11525-f132-498f-9713-c11a1c5170f2.jpeg)no-repeat top/cover fixed;
+    width: 100%;
+    height: 100vh;
+}
+
+.ban{
+    background-color: rgba(0, 0, 0, 0.438);
+    width: 100%;
+    height: 100vh; 
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+}
+
+/* .container img{
+    object-fit: cover;
+    height: 450px;
+    width: 450px;
+}
+
+.container .m2{
+    position: absolute;
+} */
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.banner .left h1{
+    font-size: 60px;
+    line-height: 60px;
+}
+ 
+
+
+.rigth img{
+    object-fit: contain;
+    width: 450px;
+    height: 450px;
+}
+
+.rigth .m1{
+    margin-right: 150px;
+    z-index: 100;
+   
+}
+.rigth .m2{
+
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+}
+
+.boit{
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boit .container .anim{
+    position: relative;
+    border-radius: 20px 20px 0 0;
+    background: url(images/07ba57f3-dcfe-46ac-9597-97e016004bef.jpeg)no-repeat top/cover;
+    height: 150px;
+
+}
+
+.boit .container .a1{
+    background: url(images/✰Luffy\ -\ Copie.jpeg)no-repeat top/cover;
+
+}
+.boit .container .a2{
+    background: url(images/✰Kirua\ -\ Copie.jpeg)no-repeat top/cover;
+
+}
+.boit .container .a3{
+    background: url(images/꒰𝙰𝚒\ 𝙰𝚛𝚝꒱\ Itachi\ Uchiha.jpeg)no-repeat top/cover;
+
+}
+.boit .container .a4{
+    background: url(images/9.jpeg)no-repeat top/cover;
+
+}
+.boit .container .a5{
+    background: url(images/Yor\ Forger.jpeg)no-repeat top/cover;
+
+}
+
+.boit .container .anim span{
+    background-color: red;
+    border-radius: 30px;
+    padding: 3px;
+    color: white;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text .text-left h2{
+    border-left: 2px solid red;
+    padding: 5px 10px;
+}
+
+.anime{
+    position: relative;
+    border-radius: 20px;
+    background: url(images/35fd5fb3-901e-424c-9b05-d8047b8e15fd\ -\ Copie.jpeg)no-repeat top/cover;
+    height: 250px;
+}
+
+.an1{
+    background: url(images/66914992-aaf7-44bb-9f05-10107e98442a.jpeg)no-repeat top/cover;
+}
+
+.an2{
+    background: url(images/a0a36c78-bfae-4db6-ab6c-cc2143b8815a.jpeg)no-repeat top/cover;
+}
+
+.an3{
+    background: url(images/photo_3_2023-08-31_16-42-13.jpg)no-repeat top/cover;
+}
+
+ .anime span{
+    background-color: red;
+    border-radius: 30px;
+    padding: 3px;
+    color: white;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.anime .icones{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: absolute;
+    padding: 0 15px 0 15px;
+    bottom: 10px;
+}
+
+.anime .icones i{
+    padding: 5px;
+    border-radius: 10px;
+    background: black;
+    font-weight: 550;
+    font-size: 15px;
+    color: white;
+}
+
+.boit1 .text-right .navbar-nav{
+    display: flex;
+
+}
+
+.boutton .bt{
+    margin-top: 12px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(95, 6, 6);
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.boit1 .row .card{
+    height: 300px;
+    background: url(images/cad8481c-1e3b-44ac-88be-76b60e1ff612.jpeg)no-repeat top/cover;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+   
+}
+
+
+.boit1 .row .card p{
+   text-align: center;
+   color: white;
+}
+
+
+.boit1 .row .c1{
+    background: url(images/+100000\ Anime\ Wallpaper\ have\ all\ wallpaper\ from\ all\ site\ anime\ popular_.jpeg)no-repeat top/cover;
+
+}
+
+
+.boit1 .row .c2{
+    background: url(images/๑☘‘𝑾𝒂𝒍𝒍𝒑𝒂𝒑𝒆𝒓’_\ ̗̀➛\ -\ Copie.jpeg   )no-repeat top/cover;
+}
+
+.pied{
+    border-top: 4px solid white;
+    background: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.pied .container .h6{
+    margin-top: 50px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: rgb(71, 6, 6);
+    padding: 10px 10px;
+    color: red;
+}
+
+#ema::placeholder{
+    color: red;
+}
+
+.input-group-text{
+    height: 46px;
+}
+
+.input-group span{
+    padding: 3px 8px;
+    border-radius: 100%;
+    background-color: red;
+    color: white;
+    position: relative;
+    margin-top: 50px;
+}
+
+.slt{
+    margin: auto;
+    height: 300px;
+    width: 100%;
+    
+}
+
+/* view section */
+
+.view-banner{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: black;
+    color: white;
+}
+
+.container .banner-image img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.banner-about .banner-text h3
+{
+    display: inline-block;
+    font-size: 45px;
+    text-transform: uppercase;
+    border-bottom: 4px solid red;
+    font-weight: bold;
+}
+
+.banner-about .banner-text h4{
+    display: inline-block;
+    font-size: 40px;
+    text-transform: uppercase;
+    border-bottom: 4px solid red;
+    font-weight: bold;
+}
+
+.banner-about .banner-text p{
+    margin-top: 40px;
+    font-weight: 500;
+}
+
+.banner-about .banner-screenshots h3{
+    display: inline-block;
+    font-weight: 800;
+    border-bottom: 4px solid red;
+}
+
+
+.banner-about .banner-screenshots .screen-images img{
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    object-position: top;
+}
+
+/* card section */
+.card-banner{
+    /* width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center; */
+    background: black;
+    color: white;
+}
+
+.card-banner .container .card-text{
+    padding: 10px;
+}
+
+
+/* responsive */
+
+@media(max-width:1288px){
+    .rigth .m1{
+    display: none;
+       
+    }
+    .rigth .m2{
+        display: none
+    }
+    
+.banner .left h1{
+    font-size: 80px;
+    line-height: 80px;
+}
+   
+}
+
+@media(max-width:767px){
+    
+.boit .container .anim{
+    height: 250px;
+
+}
+}
+
+
+@media(max-width:569px){
+    
+    .banner{
+      text-align: center;
+    }
+
+    .banner .lien{
+        margin-top: 50px;
+    }
+}
+
+@media(max-width:991px){
+    
+    .banner-about .banner-text p{
+        margin-top: 10px;
+        font-weight: 500;
+    }
+
+    .banner-about .banner-screenshots .screen-images .im1{
+        display: none;
+    }
+    
+}
+@media(max-width:767px){
+
+    .banner-about .banner-screenshots .screen-images img{
+     
+        height: 300px;
+      
+    }
+    .banner-about .banner-screenshots .screen-images .im2{
+        display: none;
+    }
+   
+    .view-banner{
+        width: 100%;
+        height: 200vh;
+        display: flex;
+        align-items: center;
+        background: black;
+        color: white;
+    }
+}
+@media(max-width:463px){
+
+    .banner-about .banner-screenshots .screen-images img{
+        display: none;
+      
+    }
+    .banner-about .banner-screenshots .screen-images .im2{
+        display: none;
+    }
+
+    .banner-about .banner-screenshots h3{
+        display: none;
+    }
+    
+   
+    .view-banner{
+        width: 100%;
+        height: 150vh;
+        display: flex;
+        align-items: center;
+        background: black;
+        color: white;
+    }
+}
+@media(max-width:359px){
+    .banner-about .banner-text h3
+    {
+        
+        font-size: 30px;
+    }
+    
+}
+@media(max-width:289px){
+    .banner-about .banner-text h3
+    {
+        
+        font-size: 20px;
+    }
+    
+}
+@media(max-width:250px){
+    .banner-about .banner-text p{
+        margin-top: 10px;
+        font-weight: 200;
+    }
+    .banner-about .banner-links a{
+        margin-top: 10px !important;
+    }
+}
+
